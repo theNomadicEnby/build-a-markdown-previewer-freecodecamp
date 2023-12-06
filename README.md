@@ -10,7 +10,7 @@ Live project link: <https://thenomadicenby.github.io/build-a-markdown-previewer-
 
 ## Screenshot
 
-![markdown-screenshot](https://)
+![markdown-screenshot](https://raw.githubusercontent.com/theNomadicEnby/build-a-markdown-previewer-freecodecamp/main/Screenshot%20Markdown%20Previewer.png)
 
 ## Objective
 
